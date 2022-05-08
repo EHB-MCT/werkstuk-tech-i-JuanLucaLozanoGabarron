@@ -5,9 +5,9 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 ## Eige informatie
 
-- Voornaam Achternaam
-- Klasgroep
-- Groepsnaam
+- Juan-luca Lozano
+- Groep B 
+- Dictator VS professor 
 
 
 ## Storyline 
@@ -29,6 +29,12 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 13. (new status quo)
 
 ## Experience
+
+In deze fase (call to adventure) komt de dictator te weten dat een bepaalde professor aan de macht wilt komen en dat hij 
+zijn systeem wilt hacken. We weten nog niet als de dictator zijn plaats gaat verdedigen of niet.
+
+Om dit weer te geven heb ik gebruik gemaakt van een paarse kleur omdat paars een mystieke kleur is. Qua geluid heb ik ervoor
+gezorgd dat we een heel onaangenaam geluid horen als we dichterbij komen. Hoe meer mensen naar de dictator komen 
 
 Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
 
