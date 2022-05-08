@@ -34,13 +34,28 @@ In deze fase (call to adventure) komt de dictator te weten dat een bepaalde prof
 zijn systeem wilt hacken. We weten nog niet als de dictator zijn plaats gaat verdedigen of niet.
 
 Om dit weer te geven heb ik gebruik gemaakt van een paarse kleur omdat paars een mystieke kleur is. Qua geluid heb ik ervoor
-gezorgd dat we een heel onaangenaam geluid horen als we dichterbij komen. Hoe meer mensen naar de dictator komen 
+gezorgd dat we een heel onaangenaam geluid horen als we dichterbij komen. Qua materiaal heb ik voor hout gebruikt omdat het 
+gemakkelijker was om het zo te monteren. Hout lijkt het meeste op krantenpapier . 
 
-Leg uit hoe je de experience van de gebruiker vormgaf en waar je nog dingen zou toevoegen (licht, geluid, materiaal, etc)
+
+
 
 ## Interaction
 
-Leg uit welke interaction je hebt toegevoegd, en hoe je deze duidelijk maakt aan de gebruiker. Voeg toe hoe je deze in de toekomst anders zou aanpakken, of waar je meer duidelijkheid zou creeeren indien nodig.
+Ik heb gebruik gemaakt van een ultrasonische afstanssensor. Deze heb ik gebruikt omdat hoe dichter
+dat je bij de dictator komt hoer meer informatie die hij krijgt over de professor en zijn plannen
+hoe onaangenamer het geluid word. 
+Vanaf een bepaalde aftsand krijgt hij de informatie en schijnt er een paars lampje. Als je nog dichter komt zal je een
+monotoon geluid horen. Vanaf dan heb gaat het geluid sneller biepen als je dichterbij komt. 
+
+Mijn sensor heb ik onderaan geplaatst wat niet zo gemakkelijk is. De volgende keer zou ik de sensor op een andere plaats zetten 
+bijvoorbeeld wat meer gericht naar de benenen van de mensen die ernaar komen kijken zodat de sensor direct. 
+kan reageren op de benen van die personen. 
+
+Om het duidelijker te maken zou ik de tekst op het bordje kleiner maken zodat de mensen geen keuze hebben om dichterbij te komen
+om te kunnen lezen wat er op het bord staat. 
+
+
 
 
 
