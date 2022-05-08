@@ -14,18 +14,18 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. Zet een "!" naast het deel dat jij hebt gedaan en "!!" naast het element dat je dynamisch maakte
 
-1. (status quo) Leeft in een wereld vol problemen
-2. (Call to adventure) Professor tegenwerken
-3. (Guidance) Bevolking helpt
-5. (Crossing) Cyber attack
-6. (Trials) Kan de server van professor niet aan en leert nieuwe technieken
-7. (Approach) Geeft alle richtlijnen aan zijn team
+1. (status quo) Populatie leeft in een wereld vol problemen
+2. (Call to adventure) Professor wilt dictator hacken. Dictator wilt professor tegenwerken.
+3. (Guidance) Bevolking helpt de dictator
+5. (Crossing) Dictator wordt gehackt
+6. (Trials) Dictator kan de server van professor niet aan en leert nieuwe technieken
+7. (Approach) Dictator heeft alle richtlijnen aan zijn team
 8. (Crisis) Mensen van zijn team worden vermoord door robots van professor
-10. (Victory) Hij kan de robots stoppen
-11. (Reward) Heeft herkenning van het volk
-12. (Return) Hij is aan de macht samen met de dictator
-13. (New life) Hij heeft een beter leven
-14. (Resolution) Mensen helpen tegen cyberattack
+10. (Victory) Dicator kan de robots stoppen
+12. (Reward) Dictator heeft herkenning van het volk
+13. (Return) Samen met de dictator komt de professor aan de macht
+14. (New life) Populatie leeft in een betere wereld
+15. (Resolution) Mensen leren hou ze moeten reageren bij een nieuwe cyberattack.
 
 ## Experience
 
