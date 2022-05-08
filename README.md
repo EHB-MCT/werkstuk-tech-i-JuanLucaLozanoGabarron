@@ -25,7 +25,7 @@ Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. 
 9. (Reward) Dictator heeft herkenning van het volk
 10. (Return) Samen met de dictator komt de professor aan de macht !
 11. (New life) Populatie leeft in een betere wereld
-12. (Resolution) Mensen leren hou ze moeten reageren bij een nieuwe cyberattack.
+12. (Resolution) Mensen leren hou ze moeten reageren bij een nieuwe cyberattack. 
 
 ## Experience
 
