@@ -14,19 +14,18 @@ Vul dit document aan, en deponeer de bestanden die je gebruikte in de beschikbar
 
 Vul volgende elementen in, deze zullen dezelfde zijn voor iedereen in de groep. Zet een "!" naast het deel dat jij hebt gedaan en "!!" naast het element dat je dynamisch maakte
 
-1. (status quo)
-2. (Call to adventure)
-3. (Guidance)
-4. (Crossing)
-5. (Trials)
-6. (Approach)
-7. (Crisis)
-8. (Treasure)
-9. (Result)
-10. (Return)
-11. (New life)
-12. (Resolution)
-13. (new status quo)
+1. (status quo) Leeft in een wereld vol problemen
+2. (Call to adventure) Professor tegenwerken
+3. (Guidance) Bevolking helpt
+5. (Crossing) Cyber attack
+6. (Trials) Kan de server van professor niet aan en leert nieuwe technieken
+7. (Approach) Geeft alle richtlijnen aan zijn team
+8. (Crisis) Mensen van zijn team worden vermoord door robots van professor
+10. (Victory) Hij kan de robots stoppen
+11. (Reward) Heeft herkenning van het volk
+12. (Return) Hij is aan de macht samen met de dictator
+13. (New life) Hij heeft een beter leven
+14. (Resolution) Mensen helpen tegen cyberattack
 
 ## Experience
 
